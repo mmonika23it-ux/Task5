@@ -1,0 +1,7 @@
+<uses-permission android:name="android.permission.CAMERA"/>
+
+<application
+    ... >
+    <activity android:name=".MainActivity"
+        android:screenOrientation="portrait"/>
+</application>
